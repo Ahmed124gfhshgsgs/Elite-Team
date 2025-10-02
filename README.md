@@ -48,5 +48,13 @@ and we always aim to build smart solutions and impactful projects 🎯.
 We aim to be leaders in the world of technological innovation 🌍,  
 building creative solutions that truly make a difference 🚀.  
 </p>
+<h3>👥 Team Members</h3>  
+
+<p>
+- <b>Ahmed Ibrahim</b> – Team Leader 👨‍💼 <br>
+- <b>Mohammed Ashraf</b> – Front-End Developer 💻 <br>
+- <b>Mohammed Ahmed</b> – Bloom Feature Developer 🌸 <br>
+- <b>Shahd Alaa</b> – AI Model Engineer 🤖  
+</p>
 
 
