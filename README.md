@@ -51,7 +51,7 @@ building creative solutions that truly make a difference 🚀.
 <h3>👥 Team Members</h3>  
 
 <p>
-- <b>Ahmed Ibrahim</b> – Team Leader 👨‍💼 <br>
+- <b>Ahmed Ibrahim</b> – Team Leader, Data Analyst 👨‍💼 <br>
 - <b>Mohammed Ashraf</b> – Front-End Developer 💻 <br>
 - <b>Mohammed Ahmed</b> – Bloom Feature Developer 🌸 <br>
 - <b>Shahd Alaa</b> – AI Model Engineer 🤖  
