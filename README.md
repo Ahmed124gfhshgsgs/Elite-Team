@@ -1,10 +1,25 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to Elite Team 🚀</h1>
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-  Hello Coders 👨‍💻
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-</h1>
+<h1 class="animated-text">Hello Coders 👨‍💻</h1>
+
+<style>
+.animated-text {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  background: linear-gradient(90deg, #ff0000, #00ffea, #ff00c8);
+  background-size: 300%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: move 3s linear infinite;
+}
+
+@keyframes move {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
 
 <p>
 We are <b>Elite Team</b> ✨, a group of creative and passionate innovators 💡,  
